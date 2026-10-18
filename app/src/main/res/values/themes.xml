@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.CollegeBell" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#1B4F8C</item>
+    </style>
+</resources>
